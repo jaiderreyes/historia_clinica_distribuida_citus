@@ -14,7 +14,7 @@ permitiendo fragmentar automáticamente los datos y distribuir las consultas de 
 
 ---
 
-## ⚙️ Requisitos
+## Requisitos
 
 - Docker
 - Docker Compose
@@ -22,7 +22,7 @@ permitiendo fragmentar automáticamente los datos y distribuir las consultas de 
 
 ---
 
-## ▶️ Instrucciones
+## Instrucciones
 
 1. Clona este repositorio y entra en el directorio:
 
@@ -52,7 +52,7 @@ docker exec -i citus_coordinator psql -U admin -d historia_clinica < /mnt/insert
 
 ---
 
-## 🧪 Validación
+##  Validación
 
 Puedes hacer consultas distribuidas directamente desde el coordinador:
 
@@ -62,7 +62,7 @@ SELECT * FROM usuario WHERE documento_id > 0;
 
 ---
 
-## 🗂 Archivos
+##  Archivos
 
 ```
 .
@@ -74,6 +74,6 @@ SELECT * FROM usuario WHERE documento_id > 0;
 
 ---
 
-## 👨‍🏫 Autor
+## Autor
 
-GPT Ingeniero Experto SRE
+Jaider reyes Herazo Ingeniero Experto SRE
