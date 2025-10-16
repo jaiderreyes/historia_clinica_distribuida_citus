@@ -16,8 +16,8 @@ INSERT INTO usuario (
     ocupacion, voluntad_anticipada, categoria_discapacidad, pais_residencia, municipio_residencia,
     etnia, comunidad_etnica, zona_residencia
 ) VALUES (
-    7100168051, 'Malasia', 'Jose Antonio Fiol Ribera', '1987-03-07',
-    85, 'F', 'Femenino',
+    7100168051, 'Malasia', 'Jaider Enrique Reyes Herazo', '1987-03-07',
+    85, 'F', 'Masculino',
     'Hydrologist', FALSE, 'Moderada',
     'Kenya', 'Alicante', 'Mestizo',
     'at', 'Rural'
