@@ -1,12 +1,12 @@
 
-# 🏥 Historia Clínica Distribuida con PostgreSQL + Citus
+# Historia Clínica Distribuida con PostgreSQL + Citus
 
 Este laboratorio implementa una base de datos distribuida real usando PostgreSQL con la extensión **Citus**,
 permitiendo fragmentar automáticamente los datos y distribuir las consultas de forma transparente.
 
 ---
 
-## 🧩 Arquitectura
+## Arquitectura
 
 - 1 Coordinator (puerto 5432)
 - 2 Workers
